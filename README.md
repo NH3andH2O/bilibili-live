@@ -27,5 +27,5 @@
 ![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/2.png?raw=true)
 ![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/3.png?raw=true)
 
-7.分析代码，你应该可以得到cookie（字符串）、token（字符串）、分区号（2~4为数字）
+7.分析代码，你应该可以得到cookie（字符串）、token（字符串）、分区号（2~4位数字）
 ![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/4.jpg?raw=true)
