@@ -3,14 +3,14 @@
 ## 简介
 这个小程式只是为了实现小于50粉丝的up主在直播时获取到推流地址和推流码以便直接在obs上直播，如果你可以直接获取到推流码的话这个程式基本上没有任何用处
 ## 如何使用
-使用PowerShell，执行bilibili live.exe
+使用PowerShell，执行bilibili_live.exe
 
 开始直播：
 
-	.\bilibili live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --startlive  
+	.\bilibili_live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --startlive  
 结束直播：
 
- 	.\bilibili live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --stoplive
+ 	.\bilibili_live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --stoplive
 
 (如果使用命令行，请把cookie、token参数中的单引号去掉)
 ## cookie、token、分区号获取
