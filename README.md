@@ -1,6 +1,8 @@
-# 简介
+# ***警告: 不要泄露自己的 cookie和 token！如果泄露，请立刻修改b站账号密码！***
+
+## 简介
 这个小程式只是为了实现小于50粉丝的up主在直播时获取到推流地址和推流码以便直接在obs上直播，如果你可以直接获取到推流码的话这个程式基本上没有任何用处
-# 如何使用
+## 如何使用
 使用PowerShell，执行bilibili live.exe
 
 开始直播：
@@ -11,7 +13,8 @@
  	.\bilibili live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --stoplive
 
 (如果使用命令行，请把cookie、token参数中的单引号去掉)
-# cookie、token、分区号获取
+## cookie、token、分区号获取
+
 1.使用Google Chrome游览器打开b站web直播平台（https://live.bilibili.com/p/html/web-hime/index.html）
 
 2.选择你要播的分区
