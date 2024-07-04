@@ -19,9 +19,13 @@
 3.单击鼠标右键，选择最下面的“检查”，或者按下F12
 
 4.单击“Network”
+![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/1.png?raw=true)
 
 5.单击“开始直播”
 
 6.找到“startLive”，右键startLive -> Copy -> Copy as fetch(Node.js),并粘贴到记事本上
+![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/2.png?raw=true)
+![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/3.png?raw=true)
 
 7.分析代码，你应该可以得到cookie（字符串）、token（字符串）、分区号（2~4为数字）
+![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/4.jpg?raw=true)
