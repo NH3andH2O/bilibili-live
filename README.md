@@ -12,7 +12,11 @@
 
 	.\bilibili_live.exe --cookie '你账户的cookie' --token '你账户的token' --room_id 你的房间号 --area 直播分区号 --startlive 
 
-如果成功，你的账号将会开启直播，并且在终端中你可以看到自己账号的推流地址及推流码。将推流地址及推流码复制到obs上，即可使用obs推流直播。
+如果成功，你的账号将会开启直播，并且在终端中你可以看到自己账号的推流地址及推流码。
+
+![](https://github.com/NH3andH2O/bilibili-live/blob/main/png/6.jpg?raw=true)
+
+其中蓝色为推流地址，红色为推流码。将推流地址及推流码复制到obs上，即可使用obs推流直播。
  
 结束直播：
 
