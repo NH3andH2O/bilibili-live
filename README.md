@@ -27,7 +27,7 @@
 (如果使用命令行，请把cookie、token参数中的单引号去掉，并且将自己cookie中的空格去掉)
 ## cookie、token、分区号获取
 
-1.使用Google Chrome游览器打开b站web直播平台（https://live.bilibili.com/p/html/web-hime/index.html）
+1.使用Google Chrome游览器打开b站web直播平台（ https://live.bilibili.com/p/html/web-hime/index.html ）
 
 2.选择你要播的分区
 
