@@ -24,7 +24,7 @@
 
 如果成功，你的账号将会结束直播
 
-(如果使用命令行，请把cookie、token参数中的单引号去掉)
+(如果使用命令行，请把cookie、token参数中的单引号去掉，并且将自己cookie中的空格去掉)
 ## cookie、token、分区号获取
 
 1.使用Google Chrome游览器打开b站web直播平台（https://live.bilibili.com/p/html/web-hime/index.html）
